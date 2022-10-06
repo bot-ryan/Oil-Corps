@@ -1,0 +1,350 @@
+.MainScreen {
+  text-align: center;
+  justify-content: center;
+  display: flex;
+  padding: 90px 0 90px 0;
+  background-color: rgb(22, 22, 44);
+  font-family: 'Impact';
+}
+
+.MainScreen-box{
+  display: flex;
+  justify-content: center;
+  height: 600px;
+  width: 60%;
+  box-shadow: 11px 12px 25px 12px rgba(255, 255, 255, 0.285);
+  padding-top: 30px;
+  border-radius: 50px;
+  background-color: rgb(255, 249, 236);
+  border: 3px solid rgb(0, 124, 39);
+}
+
+Screen-box{
+  height: 700px;
+}
+
+.header{
+  background-color: rgb(66, 172, 218);
+  border-radius: 50px;
+  height: 60px;
+  width: 900px;
+  flex:1;
+}
+
+companyName{
+  font-size: 30px !important;
+  color:rgb(49, 49, 49) !important;
+  padding-left: 20px;
+}
+
+capital{
+  font-size: 30px !important;
+  color:rgb(49, 49, 49) !important;
+  padding-right: 100px;
+}
+
+round{
+  font-size: 30px !important;
+  color:rgb(49, 49, 49) !important;
+  padding-right: 20px;
+}
+
+Button{
+  height: 40px !important;
+  border-radius: 10px;
+}
+
+avatar{
+  padding-right: 1000px;
+}
+
+
+.info{
+  background-color: rgb(221, 223, 160);
+  border-radius: 10px;
+  height: 280px;
+  width: 25px;
+}
+
+status{
+  font-size: 20px !important;
+  color:rgb(49, 49, 49) !important;
+  padding-bottom: 20px;
+}
+
+owner{
+  font-size: 20px !important;
+  color:rgb(49, 49, 49) !important;
+  padding-bottom: 20px;
+}
+
+value{
+  font-size: 20px !important;
+  color:rgb(49, 49, 49) !important;
+  padding-bottom: 20px;
+}
+
+.settings{
+  top: 625px; left: 1140px;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+.A15:hover{  border: 2px solid rgb(0, 255, 229);}
+.A14:hover{  border: 2px solid rgb(0, 255, 229);}
+.A13:hover{  border: 2px solid rgb(0, 255, 229);}
+.A12:hover{  border: 2px solid rgb(0, 255, 229);}
+.A11:hover{  border: 2px solid rgb(0, 255, 229);}
+.A10:hover{  border: 2px solid rgb(0, 255, 229);}
+.A9:hover{  border: 2px solid rgb(0, 255, 229);}
+.A8:hover{  border: 2px solid rgb(0, 255, 229);}
+.A7:hover{  border: 2px solid rgb(0, 255, 229);}
+.A6:hover{  border: 2px solid rgb(0, 255, 229);}
+.A5:hover{  border: 2px solid rgb(0, 255, 229);}
+.A4:hover{  border: 2px solid rgb(0, 255, 229);}
+.A3:hover{  border: 2px solid rgb(0, 255, 229);}
+.A2:hover{  border: 2px solid rgb(0, 255, 229);}
+.A1:hover{  border: 2px solid rgb(0, 255, 229);}
+.B15:hover{  border: 2px solid rgb(0, 255, 229);}
+.B14:hover{  border: 2px solid rgb(0, 255, 229);}
+.B13:hover{  border: 2px solid rgb(0, 255, 229);}
+.B12:hover{  border: 2px solid rgb(0, 255, 229);}
+.B11:hover{  border: 2px solid rgb(0, 255, 229);}
+.B10:hover{  border: 2px solid rgb(0, 255, 229);}
+.B9:hover{  border: 2px solid rgb(0, 255, 229);}
+.B8:hover{  border: 2px solid rgb(0, 255, 229);}
+.B7:hover{  border: 2px solid rgb(0, 255, 229);}
+.B6:hover{  border: 2px solid rgb(0, 255, 229);}
+.B5:hover{  border: 2px solid rgb(0, 255, 229);}
+.B4:hover{  border: 2px solid rgb(0, 255, 229);}
+.B3:hover{  border: 2px solid rgb(0, 255, 229);}
+.B2:hover{  border: 2px solid rgb(0, 255, 229);}
+.B1:hover{  border: 2px solid rgb(0, 255, 229);}
+.C15:hover{  border: 2px solid rgb(0, 255, 229);}
+.C14:hover{  border: 2px solid rgb(0, 255, 229);}
+.C13:hover{  border: 2px solid rgb(0, 255, 229);}
+.C12:hover{  border: 2px solid rgb(0, 255, 229);}
+.C11:hover{  border: 2px solid rgb(0, 255, 229);}
+.C10:hover{  border: 2px solid rgb(0, 255, 229);}
+.C9:hover{  border: 2px solid rgb(0, 255, 229);}
+.C8:hover{  border: 2px solid rgb(0, 255, 229);}
+.C7:hover{  border: 2px solid rgb(0, 255, 229);}
+.C6:hover{  border: 2px solid rgb(0, 255, 229);}
+.C5:hover{  border: 2px solid rgb(0, 255, 229);}
+.C4:hover{  border: 2px solid rgb(0, 255, 229);}
+.C3:hover{  border: 2px solid rgb(0, 255, 229);}
+.C2:hover{  border: 2px solid rgb(0, 255, 229);}
+.C1:hover{  border: 2px solid rgb(0, 255, 229);}
+.D15:hover{  border: 2px solid rgb(0, 255, 229);}
+.D14:hover{  border: 2px solid rgb(0, 255, 229);}
+.D13:hover{  border: 2px solid rgb(0, 255, 229);}
+.D12:hover{  border: 2px solid rgb(0, 255, 229);}
+.D11:hover{  border: 2px solid rgb(0, 255, 229);}
+.D10:hover{  border: 2px solid rgb(0, 255, 229);}
+.D9:hover{  border: 2px solid rgb(0, 255, 229);}
+.D8:hover{  border: 2px solid rgb(0, 255, 229);}
+.D7:hover{  border: 2px solid rgb(0, 255, 229);}
+.D6:hover{  border: 2px solid rgb(0, 255, 229);}
+.D5:hover{  border: 2px solid rgb(0, 255, 229);}
+.D4:hover{  border: 2px solid rgb(0, 255, 229);}
+.D3:hover{  border: 2px solid rgb(0, 255, 229);}
+.D2:hover{  border: 2px solid rgb(0, 255, 229);}
+.D1:hover{  border: 2px solid rgb(0, 255, 229);}
+.E15:hover{  border: 2px solid rgb(0, 255, 229);}
+.E14:hover{  border: 2px solid rgb(0, 255, 229);}
+.E13:hover{  border: 2px solid rgb(0, 255, 229);}
+.E12:hover{  border: 2px solid rgb(0, 255, 229);}
+.E11:hover{  border: 2px solid rgb(0, 255, 229);}
+.E10:hover{  border: 2px solid rgb(0, 255, 229);}
+.E9:hover{  border: 2px solid rgb(0, 255, 229);}
+.E8:hover{  border: 2px solid rgb(0, 255, 229);}
+.E7:hover{  border: 2px solid rgb(0, 255, 229);}
+.E6:hover{  border: 2px solid rgb(0, 255, 229);}
+.E5:hover{  border: 2px solid rgb(0, 255, 229);}
+.E4:hover{  border: 2px solid rgb(0, 255, 229);}
+.E3:hover{  border: 2px solid rgb(0, 255, 229);}
+.E2:hover{  border: 2px solid rgb(0, 255, 229);}
+.E1:hover{  border: 2px solid rgb(0, 255, 229);}
+.F15:hover{  border: 2px solid rgb(0, 255, 229);}
+.F14:hover{  border: 2px solid rgb(0, 255, 229);}
+.F13:hover{  border: 2px solid rgb(0, 255, 229);}
+.F12:hover{  border: 2px solid rgb(0, 255, 229);}
+.F11:hover{  border: 2px solid rgb(0, 255, 229);}
+.F10:hover{  border: 2px solid rgb(0, 255, 229);}
+.F9:hover{  border: 2px solid rgb(0, 255, 229);}
+.F8:hover{  border: 2px solid rgb(0, 255, 229);}
+.F7:hover{  border: 2px solid rgb(0, 255, 229);}
+.F6:hover{  border: 2px solid rgb(0, 255, 229);}
+.F5:hover{  border: 2px solid rgb(0, 255, 229);}
+.F4:hover{  border: 2px solid rgb(0, 255, 229);}
+.F3:hover{  border: 2px solid rgb(0, 255, 229);}
+.F2:hover{  border: 2px solid rgb(0, 255, 229);}
+.F1:hover{  border: 2px solid rgb(0, 255, 229);}
+.G15:hover{  border: 2px solid rgb(0, 255, 229);}
+.G14:hover{  border: 2px solid rgb(0, 255, 229);}
+.G13:hover{  border: 2px solid rgb(0, 255, 229);}
+.G12:hover{  border: 2px solid rgb(0, 255, 229);}
+.G11:hover{  border: 2px solid rgb(0, 255, 229);}
+.G10:hover{  border: 2px solid rgb(0, 255, 229);}
+.G9:hover{  border: 2px solid rgb(0, 255, 229);}
+.G8:hover{  border: 2px solid rgb(0, 255, 229);}
+.G7:hover{  border: 2px solid rgb(0, 255, 229);}
+.G6:hover{  border: 2px solid rgb(0, 255, 229);}
+.G5:hover{  border: 2px solid rgb(0, 255, 229);}
+.G4:hover{  border: 2px solid rgb(0, 255, 229);}
+.G3:hover{  border: 2px solid rgb(0, 255, 229);}
+.G2:hover{  border: 2px solid rgb(0, 255, 229);}
+.G1:hover{  border: 2px solid rgb(0, 255, 229);}
+.H15:hover{  border: 2px solid rgb(0, 255, 229);}
+.H14:hover{  border: 2px solid rgb(0, 255, 229);}
+.H13:hover{  border: 2px solid rgb(0, 255, 229);}
+.H12:hover{  border: 2px solid rgb(0, 255, 229);}
+.H11:hover{  border: 2px solid rgb(0, 255, 229);}
+.H10:hover{  border: 2px solid rgb(0, 255, 229);}
+.H9:hover{  border: 2px solid rgb(0, 255, 229);}
+.H8:hover{  border: 2px solid rgb(0, 255, 229);}
+.H7:hover{  border: 2px solid rgb(0, 255, 229);}
+.H6:hover{  border: 2px solid rgb(0, 255, 229);}
+.H5:hover{  border: 2px solid rgb(0, 255, 229);}
+.H4:hover{  border: 2px solid rgb(0, 255, 229);}
+.H3:hover{  border: 2px solid rgb(0, 255, 229);}
+.H2:hover{  border: 2px solid rgb(0, 255, 229);}
+.H1:hover{  border: 2px solid rgb(0, 255, 229);}
+.I15:hover{  border: 2px solid rgb(0, 255, 229);}
+.I14:hover{  border: 2px solid rgb(0, 255, 229);}
+.I13:hover{  border: 2px solid rgb(0, 255, 229);}
+.I12:hover{  border: 2px solid rgb(0, 255, 229);}
+.I11:hover{  border: 2px solid rgb(0, 255, 229);}
+.I10:hover{  border: 2px solid rgb(0, 255, 229);}
+.I9:hover{  border: 2px solid rgb(0, 255, 229);}
+.I8:hover{  border: 2px solid rgb(0, 255, 229);}
+.I7:hover{  border: 2px solid rgb(0, 255, 229);}
+.I6:hover{  border: 2px solid rgb(0, 255, 229);}
+.I5:hover{  border: 2px solid rgb(0, 255, 229);}
+.I4:hover{  border: 2px solid rgb(0, 255, 229);}
+.I3:hover{  border: 2px solid rgb(0, 255, 229);}
+.I2:hover{  border: 2px solid rgb(0, 255, 229);}
+.I1:hover{  border: 2px solid rgb(0, 255, 229);}
+.J15:hover{  border: 2px solid rgb(0, 255, 229);}
+.J14:hover{  border: 2px solid rgb(0, 255, 229);}
+.J13:hover{  border: 2px solid rgb(0, 255, 229);}
+.J12:hover{  border: 2px solid rgb(0, 255, 229);}
+.J11:hover{  border: 2px solid rgb(0, 255, 229);}
+.J10:hover{  border: 2px solid rgb(0, 255, 229);}
+.J9:hover{  border: 2px solid rgb(0, 255, 229);}
+.J8:hover{  border: 2px solid rgb(0, 255, 229);}
+.J7:hover{  border: 2px solid rgb(0, 255, 229);}
+.J6:hover{  border: 2px solid rgb(0, 255, 229);}
+.J5:hover{  border: 2px solid rgb(0, 255, 229);}
+.J4:hover{  border: 2px solid rgb(0, 255, 229);}
+.J3:hover{  border: 2px solid rgb(0, 255, 229);}
+.J2:hover{  border: 2px solid rgb(0, 255, 229);}
+.J1:hover{  border: 2px solid rgb(0, 255, 229);}
+.K15:hover{  border: 2px solid rgb(0, 255, 229);}
+.K14:hover{  border: 2px solid rgb(0, 255, 229);}
+.K13:hover{  border: 2px solid rgb(0, 255, 229);}
+.K12:hover{  border: 2px solid rgb(0, 255, 229);}
+.K11:hover{  border: 2px solid rgb(0, 255, 229);}
+.K10:hover{  border: 2px solid rgb(0, 255, 229);}
+.K9:hover{  border: 2px solid rgb(0, 255, 229);}
+.K8:hover{  border: 2px solid rgb(0, 255, 229);}
+.K7:hover{  border: 2px solid rgb(0, 255, 229);}
+.K6:hover{  border: 2px solid rgb(0, 255, 229);}
+.K5:hover{  border: 2px solid rgb(0, 255, 229);}
+.K4:hover{  border: 2px solid rgb(0, 255, 229);}
+.K3:hover{  border: 2px solid rgb(0, 255, 229);}
+.K2:hover{  border: 2px solid rgb(0, 255, 229);}
+.K1:hover{  border: 2px solid rgb(0, 255, 229);}
+.L15:hover{  border: 2px solid rgb(0, 255, 229);}
+.L14:hover{  border: 2px solid rgb(0, 255, 229);}
+.L13:hover{  border: 2px solid rgb(0, 255, 229);}
+.L12:hover{  border: 2px solid rgb(0, 255, 229);}
+.L11:hover{  border: 2px solid rgb(0, 255, 229);}
+.L10:hover{  border: 2px solid rgb(0, 255, 229);}
+.L9:hover{  border: 2px solid rgb(0, 255, 229);}
+.L8:hover{  border: 2px solid rgb(0, 255, 229);}
+.L7:hover{  border: 2px solid rgb(0, 255, 229);}
+.L6:hover{  border: 2px solid rgb(0, 255, 229);}
+.L5:hover{  border: 2px solid rgb(0, 255, 229);}
+.L4:hover{  border: 2px solid rgb(0, 255, 229);}
+.L3:hover{  border: 2px solid rgb(0, 255, 229);}
+.L2:hover{  border: 2px solid rgb(0, 255, 229);}
+.L1:hover{  border: 2px solid rgb(0, 255, 229);}
+.M15:hover{  border: 2px solid rgb(0, 255, 229);}
+.M14:hover{  border: 2px solid rgb(0, 255, 229);}
+.M13:hover{  border: 2px solid rgb(0, 255, 229);}
+.M12:hover{  border: 2px solid rgb(0, 255, 229);}
+.M11:hover{  border: 2px solid rgb(0, 255, 229);}
+.M10:hover{  border: 2px solid rgb(0, 255, 229);}
+.M9:hover{  border: 2px solid rgb(0, 255, 229);}
+.M8:hover{  border: 2px solid rgb(0, 255, 229);}
+.M7:hover{  border: 2px solid rgb(0, 255, 229);}
+.M6:hover{  border: 2px solid rgb(0, 255, 229);}
+.M5:hover{  border: 2px solid rgb(0, 255, 229);}
+.M4:hover{  border: 2px solid rgb(0, 255, 229);}
+.M3:hover{  border: 2px solid rgb(0, 255, 229);}
+.M2:hover{  border: 2px solid rgb(0, 255, 229);}
+.M1:hover{  border: 2px solid rgb(0, 255, 229);}
+.N15:hover{  border: 2px solid rgb(0, 255, 229);}
+.N14:hover{  border: 2px solid rgb(0, 255, 229);}
+.N13:hover{  border: 2px solid rgb(0, 255, 229);}
+.N12:hover{  border: 2px solid rgb(0, 255, 229);}
+.N11:hover{  border: 2px solid rgb(0, 255, 229);}
+.N10:hover{  border: 2px solid rgb(0, 255, 229);}
+.N9:hover{  border: 2px solid rgb(0, 255, 229);}
+.N8:hover{  border: 2px solid rgb(0, 255, 229);}
+.N7:hover{  border: 2px solid rgb(0, 255, 229);}
+.N6:hover{  border: 2px solid rgb(0, 255, 229);}
+.N5:hover{  border: 2px solid rgb(0, 255, 229);}
+.N4:hover{  border: 2px solid rgb(0, 255, 229);}
+.N3:hover{  border: 2px solid rgb(0, 255, 229);}
+.N2:hover{  border: 2px solid rgb(0, 255, 229);}
+.N1:hover{  border: 2px solid rgb(0, 255, 229);}
+.O15:hover{  border: 2px solid rgb(0, 255, 229);}
+.O14:hover{  border: 2px solid rgb(0, 255, 229);}
+.O13:hover{  border: 2px solid rgb(0, 255, 229);}
+.O12:hover{  border: 2px solid rgb(0, 255, 229);}
+.O11:hover{  border: 2px solid rgb(0, 255, 229);}
+.O10:hover{  border: 2px solid rgb(0, 255, 229);}
+.O9:hover{  border: 2px solid rgb(0, 255, 229);}
+.O8:hover{  border: 2px solid rgb(0, 255, 229);}
+.O7:hover{  border: 2px solid rgb(0, 255, 229);}
+.O6:hover{  border: 2px solid rgb(0, 255, 229);}
+.O5:hover{  border: 2px solid rgb(0, 255, 229);}
+.O4:hover{  border: 2px solid rgb(0, 255, 229);}
+.O3:hover{  border: 2px solid rgb(0, 255, 229);}
+.O2:hover{  border: 2px solid rgb(0, 255, 229);}
+.O1:hover{  border: 2px solid rgb(0, 255, 229);}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
